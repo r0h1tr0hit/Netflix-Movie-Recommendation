@@ -31,7 +31,5 @@ Netflix is a platform which provides movies to its user. It also helps their use
 Models | RMSE | MAPE 
 --- | --- | --- 
 SVD | 1.0726046873826458 | 35.01953535988152
---- | --- | --- 
 SVDpp | 1.0728491944183447 | 35.03817913919887
---- | --- | --- 
 XGBOOST | 1.0748617789625716 | 34.734311920441556
